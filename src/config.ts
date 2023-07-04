@@ -1,8 +1,8 @@
-export const SUBTITLE = "A free clone of LinkTree"
-export const TITLE = "LinkTreeFreeClone"
-export const TAGLINE = "Make your own LinkTree page for free"
+export const SUBTITLE = "Nothing But His (Jesus) Grace"
+export const TITLE = "Immanuel Raj"
+export const TAGLINE = "Waste your time wisely"
 
 // Contacts
 export const contact = "Keep in touch"
 export const phone = "+33600000000"
-export const email = "contact@yoandev.co"
+export const email = "iamimmanuelraj@gmail.com"
