@@ -67,7 +67,7 @@ You can see a demo of the project at [https://links-iamimmanuelraj-github-io.pag
     ```md
     ---
     icon: linkedin
-    url: https://linkedin.com/in/yoan-bernabeu
+    url: https://linkedin.com/in/iamimmanuelraj
 
     ---
     ```
