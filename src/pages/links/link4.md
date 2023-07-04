@@ -1,5 +1,5 @@
 ---
 title: Blog
 emoji: 📝
-href: https://yoandev.co
+href: https://iamimmanuelraj.github.io
 ---
