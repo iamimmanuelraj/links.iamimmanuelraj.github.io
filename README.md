@@ -4,7 +4,7 @@
 
 # LinkTree Free Clone
 
-[![Playwright Tests](https://github.com/iamimmanuelraj/links.iamimmanuelraj.github.io/actions/workflows/playwright.yml/badge.svg)](https://github.com/iamimmanuelraj/links.iamimmanuelraj.github.io/actions/workflows/playwright.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/3e928715-44c6-4439-864e-6a346f699c07/deploy-status)](https://app.netlify.com/sites/linktreefreeclone/deploys)
+[![Playwright Tests](https://github.com/iamimmanuelraj/links.iamimmanuelraj.github.io/actions/workflows/playwright.yml/badge.svg)](https://github.com/iamimmanuelraj/links.iamimmanuelraj.github.io/actions/workflows/playwright.yml)
 
 ![screenshoot](readme.png)
 
