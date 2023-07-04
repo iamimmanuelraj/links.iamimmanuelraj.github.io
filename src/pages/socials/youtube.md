@@ -1,4 +1,4 @@
 ---
 icon: youtube
-url: https://www.youtube.com/c/yoandevco
+url: https://www.youtube.com/@iamimmanuelraj
 ---

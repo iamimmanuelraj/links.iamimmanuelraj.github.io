@@ -1,4 +1,4 @@
 ---
 icon: twitter
-url: https://twitter.com/yOyO38
+url: https://twitter.com/iamimmanuelraj
 ---
