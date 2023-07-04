@@ -1,3 +1,7 @@
+# Credits
+- All credits to @yoanbernabeu for the project. I just took this and edited as per my needs. A great thanks to him for keeping it opensource (Following him i shall also keep this opensource in respect to him)
+- I have made minimal changes as per my need (May change the rest in future)
+
 # LinkTree Free Clone
 
 [![Playwright Tests](https://github.com/yoanbernabeu/LinkTreeFreeClone/actions/workflows/playwright.yml/badge.svg)](https://github.com/yoanbernabeu/LinkTreeFreeClone/actions/workflows/playwright.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/3e928715-44c6-4439-864e-6a346f699c07/deploy-status)](https://app.netlify.com/sites/linktreefreeclone/deploys)
