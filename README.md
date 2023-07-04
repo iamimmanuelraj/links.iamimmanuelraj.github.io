@@ -16,7 +16,7 @@ Feel free to use it as a template for your own projects.
 
 ## 👀 Demo
 
-You can see a demo of the project at [https://linktreefreeclone.yoandev.co/](https://linktreefreeclone.yoandev.co/)
+You can see a demo of the project at [https://links-iamimmanuelraj-github-io.pages.dev/](https://links-iamimmanuelraj-github-io.pages.dev/)
 
 ## 🚀 Quick start
 
