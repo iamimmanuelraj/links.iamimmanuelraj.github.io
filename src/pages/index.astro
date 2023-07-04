@@ -10,7 +10,6 @@ import {
     TITLE, 
     TAGLINE,
     contact,
-    phone,
     email
 } from "../config";
 
@@ -42,7 +41,6 @@ const links = await Astro.glob("./links/*.md");
 
     <Contact
         contact={contact}
-        phone={phone}
         email={email}
     />
 
