@@ -18,5 +18,5 @@ test('homepage has title and links', async ({ page }) => {
   await expect(blog).toHaveAttribute('href', 'https://iamimmanuelraj.github.io');
 
   const email = page.getByRole('link', { name: '📪 Email me' });
-  await expect(email).toHaveAttribute('href', 'mailto://iamimmanuelraj@gmail.com');
+  await expect(email).toHaveAttribute('href', 'mailto:iamimmanuelraj@gmail.com');
 });
